@@ -1,0 +1,29 @@
+NOTES
+Achievements are not included yet. I may add them in the future.
+This is Windows only.
+
+Created by km7dev | km7 the dev#3087 (discord)
+Level Manager created by Absolute | @absolllute (twitter)
+
+Created for Geometry Dash v2.11 on Windows. 
+Do not use on any other version, as it either will break the game or remove a new level.
+
+Currently includes:
+Meltdown - All Levels
+World - All Levels
+Subzero - All Levels
+
+Do not ask me to add any custom or leaked levels.
+
+HOW TO INSTALL
+Drag the contents of the MOD folder (it's in the same folder as this txt file) to the Geometry Dash folder (Should be C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash)
+If it asks you to replace the files (which it should) replace them.
+Run Geometry Dash and go to the main levels. Levels from Meltdown, World, and Subzero should be there in release order.
+
+HOW TO UNINSTALL
+
+Go to your Geometry Dash folder (Should be C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash)
+Delete .levels, absolut_ext.dll, absolute_lm.dll, and libcurl.dll
+Drag and drop the contents of the OLD folder (it's in the same folder as this txt file) into the Geometry Dash folder
+If it asks you to replace the files (which it should) replace them.
+Geometry Dash should be back to normal.
