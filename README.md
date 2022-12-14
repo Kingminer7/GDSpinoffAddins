@@ -1,5 +1,7 @@
 # GDSpinoffAddins
 
+<strong>BEFORE YOU ASK. I am NOT changing the coins to normal coins unless I find a way to make the levels sync with the actual original games.</strong>
+
 [Download](https://github.com/Kingminer7/GDSpinoffAddins/releases/latest)
 
 Adds in the following:
