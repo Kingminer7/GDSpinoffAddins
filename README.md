@@ -1,6 +1,6 @@
 # GDSpinoffAddins
 
-[Dowmload](github.com/Kingminer7/GDSpinoffAddins/releases/latest)
+[Download](github.com/Kingminer7/GDSpinoffAddins/releases/latest)
 
 Adds in the following:
 All Meltdown levels
