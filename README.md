@@ -2,6 +2,8 @@
 
 <strong>BEFORE YOU ASK. I am NOT changing the coins to normal coins unless I find a way to make the levels sync with the actual original games.</strong>
 
+# IMPORTANT - IN FUTURE UPDATES YOU MAY NOT EARN ORBS, STARS, OR DIAMONDS FROM NEW LEVELS IF YOU USE THIS. JUST BE WARNED
+
 [Download](https://github.com/Kingminer7/GDSpinoffAddins/releases/latest)
 
 Adds in the following:
